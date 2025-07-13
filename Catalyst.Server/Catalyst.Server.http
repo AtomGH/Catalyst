@@ -1,0 +1,6 @@
+@Catalyst.Server_HostAddress = http://localhost:5220
+
+GET {{Catalyst.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
